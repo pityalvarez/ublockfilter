@@ -1,0 +1,1 @@
+*##a[href*="www.clarin.com"]::before:style(content: "(Warning: Clarin) " !important; color: #E6000D !important; visibility: visible)
