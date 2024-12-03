@@ -1,2 +1,3 @@
 ! prueba
-www.clarin.com
+*##a[href*="www.clarin.com"]::before:style(content: " " !important; color: #E6000D !important; visibility: visible)
+||clarin.com
